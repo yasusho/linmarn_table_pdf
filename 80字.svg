@@ -26,8 +26,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.5946522"
-     inkscape:cx="3238.0272"
-     inkscape:cy="791.2188"
+     inkscape:cx="3861.9213"
+     inkscape:cy="549.06044"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -5045,125 +5045,6 @@
        x="1130.7661"
        y="168"
        rx="0" />
-    <rect
-       style="fill:#ff00ff;fill-opacity:0.779874;stroke-width:1.065;stroke-linecap:round"
-       id="rect9601-5"
-       width="210"
-       height="297"
-       x="890.76575"
-       y="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53512-68"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="242"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53508-6"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="205"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53496-38"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="20"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53492-8"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="56.999992"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect49049-26"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="93.999992"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect44607-09"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="93.999992"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53498-19"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="20"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53494-03"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="56.999992"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53500-3"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="131"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53504-6"
-       width="35"
-       height="35.000004"
-       x="995.76599"
-       y="168"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53510-9"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="205"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53514-91"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="242"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53502-0"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="131"
-       rx="0" />
-    <rect
-       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.90779;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect53506-83"
-       width="35"
-       height="35.000004"
-       x="910.76599"
-       y="168"
-       rx="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -5195,1027 +5076,11 @@
        d="m 1234.1359,24.727421 -2.0598,-1.44226 v 24.78648 l 2.0598,1.44224 z"
        id="path3224-1-5"
        sodipodi:nodetypes="ccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.27142"
-       y="24.886055"
-       id="text6814-4"><tspan
-         sodipodi:role="line"
-         id="tspan6812-0"
-         x="961.27142"
-         y="24.886055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">ap1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.37469"
-       y="30.853714"
-       id="text6820-6"><tspan
-         sodipodi:role="line"
-         id="tspan6818-2"
-         x="961.37469"
-         y="30.853714"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">アーㇷ゚</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95577,-54.555943)"
-       id="text6826-4"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7540-4);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24620">四</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,-40.799103)"
-       id="text6832-6"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7542-2);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24630"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24622">字源：指事。四方向</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24624">を</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24626">示</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24628">す。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="29.660065"
-       id="text6838-4"><tspan
-         sodipodi:role="line"
-         id="tspan6836-8"
-         x="948.00055"
-         y="29.660065"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">四</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.8671"
-       y="24.886055"
-       id="text6854-4"><tspan
-         sodipodi:role="line"
-         id="tspan6852-3"
-         x="1046.8671"
-         y="24.886055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">un1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.3748"
-       y="30.853706"
-       id="text6860-8"><tspan
-         sodipodi:role="line"
-         id="tspan6858-7"
-         x="1046.3748"
-         y="30.853706"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ウーン</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,-54.555943)"
-       id="text6866-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7544-3);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24632">五</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51887,-40.799113)"
-       id="text6872-3"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7546-6);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24642"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24634">字源：指事。一本線</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24636">で「ご」を</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24638">示</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24640">す。</tspan></tspan><tspan
-         x="220.46875"
-         y="308.97769"
-         id="tspan24656"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24644">古代</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24646">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24648">計算用具</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24650">との</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24652">関連</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24654">がある。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="29.660057"
-       id="text6878-7"><tspan
-         sodipodi:role="line"
-         id="tspan6876-2"
-         x="1033.0006"
-         y="29.660057"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">五</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="960.45148"
-       y="61.886063"
-       id="text6900-2"><tspan
-         sodipodi:role="line"
-         id="tspan6898-91"
-         x="960.45148"
-         y="61.886063"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">net2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.01727"
-       y="67.853722"
-       id="text6906-6"><tspan
-         sodipodi:role="line"
-         id="tspan6904-0"
-         x="961.01727"
-         y="67.853722"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ネーㇳ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95577,-17.555943)"
-       id="text6912-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7548-8);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24658">六</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51888,-3.7991121)"
-       id="text6920-7"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7550-1);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24666"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24660">字源：【五】＋【一】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24662">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24664">会意。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="66.660072"
-       id="text6926-5"><tspan
-         sodipodi:role="line"
-         id="tspan6924-3"
-         x="948.00055"
-         y="66.660072"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">六</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1048.0596"
-       y="61.886047"
-       id="text6950-2"><tspan
-         sodipodi:role="line"
-         id="tspan6948-7"
-         x="1048.0596"
-         y="61.886047"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">nik2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1047.7911"
-       y="68.028343"
-       id="text6956-53"><tspan
-         sodipodi:role="line"
-         id="tspan6954-4"
-         x="1047.7911"
-         y="68.028343"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ニーㇰ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,-17.555943)"
-       id="text6962-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7552-4);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24668">七</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51886,-3.7991141)"
-       id="text6982-8"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7554-2);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24676"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24670">字源：【五】＋【二】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24672">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24674">会意。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="66.660065"
-       id="text6988-3"><tspan
-         sodipodi:role="line"
-         id="tspan6986-7"
-         x="1033.0006"
-         y="66.660065"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">七</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="959.88452"
-       y="98.886055"
-       id="text7018-9"><tspan
-         sodipodi:role="line"
-         id="tspan7016-2"
-         x="959.88452"
-         y="98.886055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">nom2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.11365"
-       y="105.02833"
-       id="text7024-5"><tspan
-         sodipodi:role="line"
-         id="tspan7022-1"
-         x="961.11365"
-         y="105.02833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ノゥㇺ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95577,19.44405)"
-       id="text7030-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7556-6);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24678">八</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,33.200881)"
-       id="text7082-3"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7558-3);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24686"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24680">字源：【五】＋【三】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24682">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24684">会意。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="103.66006"
-       id="text7088-0"><tspan
-         sodipodi:role="line"
-         id="tspan7086-0"
-         x="948.00055"
-         y="103.66006"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">八</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.4788"
-       y="98.886055"
-       id="text7098-5"><tspan
-         sodipodi:role="line"
-         id="tspan7096-5"
-         x="1046.4788"
-         y="98.886055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">nap1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1044.3357"
-       y="105.02833"
-       id="text7104-83"><tspan
-         sodipodi:role="line"
-         id="tspan7102-8"
-         x="1044.3357"
-         y="105.02833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ナーㇷ゚</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,19.444047)"
-       id="text7112-5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7560-0);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24688">九</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51887,33.200878)"
-       id="text7132-0"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7562-6);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24696"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24690">字源：【五】＋【四】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24692">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24694">会意。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="103.66003"
-       id="text7138-5"><tspan
-         sodipodi:role="line"
-         id="tspan7136-9"
-         x="1033.0006"
-         y="103.66003"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">九</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.89838"
-       y="135.886"
-       id="text7170-7"><tspan
-         sodipodi:role="line"
-         id="tspan7168-1"
-         x="961.89838"
-         y="135.886"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">nun1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.37469"
-       y="141.85365"
-       id="text7176-1"><tspan
-         sodipodi:role="line"
-         id="tspan7174-0"
-         x="961.37469"
-         y="141.85365"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ヌーン</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95577,56.444064)"
-       id="text7186-1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7566-9);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24698">十</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,70.200895)"
-       id="text7194-5"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7568-8);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24706"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24700">字源：【五】＋【五】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24702">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24704">訛字。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="140.66"
-       id="text7200-2"><tspan
-         sodipodi:role="line"
-         id="tspan7198-4"
-         x="948.00055"
-         y="140.66"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">十</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1047.1481"
-       y="135.886"
-       id="text7220-2"><tspan
-         sodipodi:role="line"
-         id="tspan7218-9"
-         x="1047.1481"
-         y="135.886"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">kit1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.3748"
-       y="141.85365"
-       id="text7226-2"><tspan
-         sodipodi:role="line"
-         id="tspan7224-56"
-         x="1046.3748"
-         y="141.85365"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">キーㇳ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,56.444065)"
-       id="text7232-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7570-6);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24708">百</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51886,70.200896)"
-       id="text7238-1"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7572-2);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24724"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24710">字源：会意。</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24712">もとは【</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24714">大</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24716">】が</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24718">百</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24720">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24722">意味</tspan></tspan><tspan
-         x="220.46875"
-         y="308.97769"
-         id="tspan24740"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24726">をも</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24728">表</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24730">していたが、【</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24732">物</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24734">】を</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24736">付加</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24738">して</tspan></tspan><tspan
-         x="220.46875"
-         y="323.10575"
-         id="tspan24746"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24742">分化</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24744">した。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="140.66"
-       id="text7244-2"><tspan
-         sodipodi:role="line"
-         id="tspan7242-0"
-         x="1033.0006"
-         y="140.66"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">百</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.21112"
-       y="172.88603"
-       id="text7268-5"><tspan
-         sodipodi:role="line"
-         id="tspan7266-0"
-         x="961.21112"
-         y="172.88603"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">hut2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.02722"
-       y="178.85368"
-       id="text7274-4"><tspan
-         sodipodi:role="line"
-         id="tspan7272-74"
-         x="961.02722"
-         y="178.85368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ホォㇳ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95578,93.444103)"
-       id="text7280-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7574-4);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24748">始める</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,107.20096)"
-       id="text7286-2"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7576-4);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24766"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24750">字源：日</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24752">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24754">出</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24756">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24758">象形。始</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24760">まりを</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24762">意味</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24764">す</tspan></tspan><tspan
-         x="220.46875"
-         y="308.97769"
-         id="tspan24770"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24768">る。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="177.66005"
-       id="text7292-0"><tspan
-         sodipodi:role="line"
-         id="tspan7290-0"
-         x="948.00055"
-         y="177.66005"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">始</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.1423"
-       y="172.88603"
-       id="text7318-2"><tspan
-         sodipodi:role="line"
-         id="tspan7316-6"
-         x="1046.1423"
-         y="172.88603"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">ta</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.0449"
-       y="178.85368"
-       id="text7324-5"><tspan
-         sodipodi:role="line"
-         id="tspan7322-1"
-         x="1046.0449"
-         y="178.85368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">タ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,93.4441)"
-       id="text7330-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7578-7);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24772">～した、[文]</tspan><tspan
-         x="220.46875"
-         y="312.05612"
-         id="tspan24774">終わる、終え</tspan><tspan
-         x="220.46875"
-         y="327.95013"
-         id="tspan24776">る</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51888,107.20095)"
-       id="text7336-8"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7580-2);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24784"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24778">字源：【始】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24780">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24782">反転字。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="177.66003"
-       id="text7342-2"><tspan
-         sodipodi:role="line"
-         id="tspan7340-3"
-         x="1033.0006"
-         y="177.66003"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">終</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="960.38153"
-       y="209.88605"
-       id="text7358-2"><tspan
-         sodipodi:role="line"
-         id="tspan7356-4"
-         x="960.38153"
-         y="209.88605"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">ian1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="961.02722"
-       y="215.85368"
-       id="text7364-2"><tspan
-         sodipodi:role="line"
-         id="tspan7362-9"
-         x="961.02722"
-         y="215.85368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ヤーン</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95578,130.44413)"
-       id="text7374-2"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7582-6);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24786">作る、出す、</tspan><tspan
-         x="220.46875"
-         y="312.05612"
-         id="tspan24788">生む、生じ</tspan><tspan
-         x="220.46875"
-         y="327.95013"
-         id="tspan24790">る、[文]～で</tspan><tspan
-         x="220.46875"
-         y="343.84415"
-         id="tspan24792">ある</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,144.20096)"
-       id="text7380-9"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7584-2);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24802"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24794">字源：</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24796">ある</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24798">位置</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24800">から</tspan></tspan><tspan
-         x="220.46875"
-         y="308.97769"
-         id="tspan24818"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24804">【</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24806">足</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24808">】を</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24810">出</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24812">した</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24814">形</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24816">の</tspan></tspan><tspan
-         x="220.46875"
-         y="323.10575"
-         id="tspan24822"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24820">象形。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00055"
-       y="214.66005"
-       id="text7386-5"><tspan
-         sodipodi:role="line"
-         id="tspan7384-8"
-         x="948.00055"
-         y="214.66005"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">生</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.1423"
-       y="209.88605"
-       id="text7400-13"><tspan
-         sodipodi:role="line"
-         id="tspan7398-1"
-         x="1046.1423"
-         y="209.88605"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">lit1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1046.0449"
-       y="215.85368"
-       id="text7406-5"><tspan
-         sodipodi:role="line"
-         id="tspan7404-6"
-         x="1046.0449"
-         y="215.85368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">リーㇳ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,130.44413)"
-       id="text7416-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7586-0);display:inline"><tspan
-         x="220.46875"
-         y="296.16211"
-         id="tspan24824">消える、消</tspan><tspan
-         x="220.46875"
-         y="312.05612"
-         id="tspan24826">す、入れる、</tspan><tspan
-         x="220.46875"
-         y="327.95013"
-         id="tspan24828">入る</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51888,144.20096)"
-       id="text7422-1"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7588-5);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24836"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24830">字源：【生】</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24832">の</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24834">反転字。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="214.66003"
-       id="text7428-4"><tspan
-         sodipodi:role="line"
-         id="tspan7426-8"
-         x="1033.0006"
-         y="214.66003"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">入</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="959.56952"
-       y="246.88605"
-       id="text7444-4"><tspan
-         sodipodi:role="line"
-         id="tspan7442-92"
-         x="959.56952"
-         y="246.88605"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">ai2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="959.33569"
-       y="253.02834"
-       id="text7450-9"><tspan
-         sodipodi:role="line"
-         id="tspan7448-1"
-         x="959.33569"
-         y="253.02834"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">アーィ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,916.95578,167.44414)"
-       id="text7456-9"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7590-6);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24838">かんむり、</tspan><tspan
-         x="220.46875"
-         y="315.13452"
-         id="tspan24840">帽子、アイ</tspan><tspan
-         x="220.46875"
-         y="332.79446"
-         id="tspan24842">ル</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,889.51887,181.20097)"
-       id="text7474-0"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7592-8);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24850"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24844">字源：</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24846">かんむりの</tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24848">象形。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="948.00061"
-       y="251.66006"
-       id="text7480-3"><tspan
-         sodipodi:role="line"
-         id="tspan7478-2"
-         x="948.00061"
-         y="251.66006"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358">冠</tspan></text>
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 928.29927,257.99221 -1.77802,-1.77802 9.34612,-1.6278 1.77801,1.77801 z"
-       id="path7490-3"
-       sodipodi:nodetypes="ccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1044.7849"
-       y="246.88605"
-       id="text7502-8"><tspan
-         sodipodi:role="line"
-         id="tspan7500-2"
-         x="1044.7849"
-         y="246.88605"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';writing-mode:lr-tb;stroke-width:0.058358">tam2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1044.0869"
-       y="253.02834"
-       id="text7508-8"><tspan
-         sodipodi:role="line"
-         id="tspan7506-2"
-         x="1044.0869"
-         y="253.02834"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝';writing-mode:lr-tb;stroke-width:0.058358">ターㇺ</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1001.9558,167.44413)"
-       id="text7514-0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7594-1);display:inline"><tspan
-         x="220.46875"
-         y="297.47458"
-         id="tspan24852">タム（信仰</tspan><tspan
-         x="220.46875"
-         y="315.13452"
-         id="tspan24854">対象）</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,974.51885,181.20097)"
-       id="text7526-2"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect7596-4);display:inline"><tspan
-         x="220.46875"
-         y="294.84964"
-         id="tspan24858"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24856">字源：不詳。</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
-       x="1033.0006"
-       y="251.66006"
-       id="text7532-6"><tspan
-         sodipodi:role="line"
-         x="1033.0006"
-         y="251.66006"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';writing-mode:lr-tb;stroke-width:0.058358"
-         id="tspan7530-5">皇</tspan></text>
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1000.1488,39.370214 -1.77799,-1.77802 27.87439,-4.936257 1.778,1.77801 z"
-       id="path7627-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 913.49608,112.44742 -1.77802,-1.77802 30.93096,-5.91938 1.77801,1.77801 z"
-       id="path3287-6-7-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1013.5086,134.21353 -2.0597,-1.44226 v 12.83812 l 2.0597,1.44224 z"
-       id="path3125-3-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1004.7202,142.04867 -1.778,-1.77802 18.3535,-3.43407 1.778,1.77802 z"
-       id="path7834-5"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1004.4444,103.47558 -1.7779,-1.77802 18.3533,-3.434068 1.778,1.778018 z"
-       id="path7834-5-1"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 921.35365,175.64638 -1.77802,-1.77802 15.36198,-2.72968 1.77801,1.77802 z"
-       id="path7482-7-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 920.82726,174.32529 -2.05975,-1.44226 v 18.96566 l 2.05975,1.44224 z"
-       id="path7484-2-1"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 936.99736,172.58094 -2.05975,-1.44226 v 18.92089 l 2.05976,1.44226 z"
-       id="path7486-8-4"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 921.40104,191.53179 -1.77802,-1.77802 15.47995,-2.68805 1.77801,1.77801 z"
-       id="path7488-2-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 921.2898,183.69939 -1.77802,-1.77802 15.42583,-2.74015 1.77801,1.77801 z"
-       id="path7490-3-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 929.37676,173.94387 -2.05975,-1.44226 v 16.3198 l 2.05976,1.44226 z"
-       id="path8091-1-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1007.0854,252.68129 -1.7781,-1.77802 15.3628,-2.72968 1.7781,1.77802 z"
-       id="path7482-7-9-4"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1006.559,251.3602 -2.0599,-1.44226 v 18.96566 l 2.0599,1.44224 z"
-       id="path7484-2-1-0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1022.73,249.61585 -2.0599,-1.44226 v 18.92089 l 2.0599,1.44226 z"
-       id="path7486-8-4-4"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1007.1328,268.5667 -1.7781,-1.77802 15.4808,-2.68805 1.7781,1.77801 z"
-       id="path7488-2-9-2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1000.1737,261.93673 -1.77816,-1.77802 29.54426,-5.20946 1.7781,1.77801 z"
-       id="path7490-3-9-4"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1015.109,244.62875 -2.0599,-1.44226 v 30.60729 l 2.0599,1.44226 z"
-       id="path8091-1-7-2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1008.7659,182.30326 -1.778,-1.77802 15.3621,-2.72968 1.778,1.77802 z"
-       id="path7482-7-9-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1008.2395,180.98217 -2.0597,-1.44226 v 18.96566 l 2.0597,1.44224 z"
-       id="path7484-2-1-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1024.4097,179.23782 -2.0597,-1.44226 v 18.92089 l 2.0597,1.44226 z"
-       id="path7486-8-4-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1008.8133,198.18867 -1.778,-1.77802 15.48,-2.68805 1.778,1.77801 z"
-       id="path7488-2-9-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1008.7021,190.35627 -1.778,-1.77802 15.4259,-2.74015 1.778,1.77801 z"
-       id="path7490-3-9-5"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1016.7891,180.60075 -2.0598,-1.44226 v 16.3198 l 2.0598,1.44226 z"
-       id="path8091-1-7-5"
-       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1229.3155,65.476413 10.6185,8.468536 1.7019,-1.70193 z"
        id="path868-6-2-2-3-6"
        sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1017.8896,62.13585 -2.0597,-1.44226 v 27.4323 l 2.0597,1.44226 z"
-       id="path7486-0-8"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1009.2107,64.60185 -2.0597,-1.44226 v 16.84897 l 2.0597,1.44226 z"
-       id="path8091-3-7"
-       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1156.6556,35.147853 -2.0597,-1.44226 -3.3716,16.458897 2.0598,1.44226 z"
@@ -6246,191 +5111,6 @@
        d="m 1246.0097,90.187564 2.8223,-0.49765 -18.482,-11.549969 -0.7021,0.63773 z"
        id="path2588-9-9"
        sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 934.85546,23.74001 2.67757,2.67757 c 0,0 -9.58728,21.422817 -21.6476,25.333507 12.21908,-7.7868 18.97003,-28.011077 18.97003,-28.011077 z"
-       id="path2586-6-0-5-2"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 930.05351,61.013756 -2.05975,-1.44226 v 28.490631 l 2.05975,1.442231 z"
-       id="path7625-9"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 916.33529,75.27577 -1.77802,-1.77802 27.87439,-4.936257 1.77802,1.77801 z"
-       id="path7627-8"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 915.55407,199.59981 -1.77802,-1.77802 27.87439,-4.93626 1.77802,1.77801 z"
-       id="path7627-8-4"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 915.88069,235.52811 -1.77802,-1.77802 27.87439,-4.93626 1.77802,1.77801 z"
-       id="path7627-8-4-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1001.3031,178.37275 -1.77797,-1.77802 27.87437,-4.93626 1.778,1.77801 z"
-       id="path7627-8-4-1"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1002.2643,227.20652 -1.778,-1.77802 27.7708,-4.88228 1.778,1.77801 z"
-       id="path7627-8-4-1-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 998.09592,74.648439 -1.77791,-1.77802 30.93069,-5.91938 1.778,1.77801 z"
-       id="path7790-4-0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path6500-8-6"
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 931.63461,136.22166 c 0,0 -5.90876,7.03932 -8.36919,9.64803 -7.16077,7.59231 -6.40815,10.36374 -6.40815,10.36374 0,0 -0.96099,7.57675 8.15552,6.17474 l 13.49323,-2.45229 1.82783,-1.95647 -3.41633,-10.87841 1.37511,10.79211 -14.85381,2.66008 c 0,0 -4.52215,0.67786 -4.52215,-3.99688 0,0 -0.34608,-1.97078 5.84535,-9.17945 3.27334,-3.81113 8.65738,-9.4399 8.65738,-9.4399 z"
-       sodipodi:nodetypes="cscccccccsscc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 917.88267,140.69651 -1.77802,-1.77802 15.53674,-2.73955 1.77801,1.77802 z"
-       id="path6506-7-8"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 999.71203,149.63575 -1.77802,-1.77802 28.40219,-5.00807 1.778,1.77802 z"
-       id="path810-4-8"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 923.86117,212.74448 -2.05975,-1.44226 v 14.20315 l 2.05975,1.44224 z"
-       id="path1847-1-5-3-6"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 934.95102,211.57111 -2.05975,-1.44226 v 15.26146 l 2.05976,1.44226 z"
-       id="path1849-7-2-0-2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 923.86117,226.94761 -1.77802,-1.77802 10.24606,-2.06112 1.77801,1.77801 z"
-       id="path1851-9-2-5-1"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 917.9607,219.87954 -1.77802,-1.77802 21.969,-3.87373 1.77801,1.77801 z"
-       id="path3287-6-7-6"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1009.3905,214.34026 2.6776,2.67757 c 0,0 1.5086,15.374 -8.3817,19.85831 8.5787,-7.2739 5.7041,-22.53588 5.7041,-22.53588 z"
-       id="path3228-9"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1012.6005,218.21093 -1.778,-1.77802 8.3364,-1.58483 1.778,1.77802 z"
-       id="path3279-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1020.9369,216.6261 -2.0597,-1.44226 v 18.08642 l 2.0597,1.44226 z"
-       id="path3281-2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1015.2607,230.38792 3.9733,6.66487 1.7029,-2.34027 z"
-       id="path3283-4"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1005.6065,213.18692 -1.778,-1.77802 18.6953,-3.14087 1.778,1.77802 z"
-       id="path3285-10"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 936.21633,99.330836 -2.05975,-1.442254 v 27.432288 l 2.05976,1.44226 z"
-       id="path7486-0-2-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 929.74087,101.80334 -2.05975,-1.44226 v 17.37814 l 2.05976,1.44226 z"
-       id="path8091-3-2-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 923.26541,103.10957 -2.05975,-1.44226 v 16.84897 l 2.05976,1.44226 z"
-       id="path8091-3-2-8-5"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.438321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 919.67245,30.370996 c 6.52021,5.05336 11.44352,11.45416 15.06175,17.54782 l 2.17516,-1.83583 c -1.27778,-1.75605 -2.63941,-3.46922 -4.05646,-5.08991 -4.15596,-4.75318 -8.78859,-8.71093 -13.18045,-10.62208 z"
-       id="path2841-9"
-       sodipodi:nodetypes="cccsc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1021.0198,98.263492 2.6776,2.677568 c 0,0 -9.5873,21.42282 -21.6476,25.33351 12.219,-7.7868 18.97,-28.011078 18.97,-28.011078 z"
-       id="path2586-6-0-5-2-9"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.438321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1005.8368,104.89448 c 6.5202,5.05336 11.4435,11.45416 15.0617,17.54782 l 2.1752,-1.83583 c -1.2778,-1.75605 -2.6394,-3.46922 -4.0565,-5.08991 -4.1559,-4.75318 -8.7885,-8.71093 -13.1804,-10.62208 z"
-       id="path2841-9-0"
-       sodipodi:nodetypes="cccsc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 918.68817,249.21298 -1.77801,-1.77802 22.06263,-3.4935 1.77801,1.77801 z"
-       id="path7396-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 915.01245,245.3589 3.14137,11.41309 1.70293,-1.70293 z"
-       id="path7430-4"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 938.97279,243.94146 1.77801,1.77801 c 0,0 -3.00981,5.20071 -7.13497,8.11081 4.68584,-6.69474 5.35696,-9.88882 5.35696,-9.88882 z"
-       id="path7432-1"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 933.05853,249.22135 -2.05975,-1.44226 v 27.4323 l 2.05976,1.44226 z"
-       id="path7486-0-25"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 924.37959,252.21652 -2.05975,-1.44226 v 16.20856 l 2.05976,-0.67441 z"
-       id="path8091-3-3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 918.76272,261.02496 -1.77802,-1.77802 9.20584,-1.65265 1.77801,1.77801 z"
-       id="path85937"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 926.585,268.45029 -1.77802,-1.77802 13.15717,-2.31996 1.77801,1.77801 z"
-       id="path7490-3-7"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 928.10876,264.3096 -10.35738,6.59238 -1.70193,-1.70194 z"
-       id="path6573-9-1"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1003.7625,153.90772 -1.778,-1.77802 22.0032,-3.87977 1.778,1.77802 z"
-       id="path5072-2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1023.9877,148.24993 1.778,1.77802 -12.2087,11.26364 -0.7729,-0.61643 z"
-       id="path5074-8"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.480372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1006.8335,155.92936 10.6185,8.46854 1.7019,-1.70193 z"
-       id="path5076-2"
-       sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6460,7 +5140,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9603);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan24860">神、精霊</tspan></text>
+         id="tspan29847">神、精霊</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,-40.799103)"
@@ -6468,13 +5148,13 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9605);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan24868"><tspan
+         id="tspan29855"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24862">字源：稲妻</tspan><tspan
+           id="tspan29849">字源：稲妻</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24864">の</tspan><tspan
+           id="tspan29851">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24866">象形。</tspan></tspan></text>
+           id="tspan29853">象形。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6515,7 +5195,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9607);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan24870">大きい</tspan></text>
+         id="tspan29857">大きい</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,-40.799113)"
@@ -6523,51 +5203,51 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9609);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan24888"><tspan
+         id="tspan29875"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24872">字源：基準</tspan><tspan
+           id="tspan29859">字源：基準</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24874">としての</tspan><tspan
+           id="tspan29861">としての</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24876">二本</tspan><tspan
+           id="tspan29863">二本</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24878">の</tspan><tspan
+           id="tspan29865">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24880">横棒</tspan><tspan
+           id="tspan29867">横棒</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24882">に</tspan><tspan
+           id="tspan29869">に</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24884">対</tspan><tspan
+           id="tspan29871">対</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24886">し</tspan></tspan><tspan
+           id="tspan29873">し</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan24910"><tspan
+         id="tspan29897"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24890">てその</tspan><tspan
+           id="tspan29877">てその</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24892">上</tspan><tspan
+           id="tspan29879">上</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24894">を</tspan><tspan
+           id="tspan29881">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24896">表</tspan><tspan
+           id="tspan29883">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24898">すことで、</tspan><tspan
+           id="tspan29885">すことで、</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24900">大</tspan><tspan
+           id="tspan29887">大</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24902">きい</tspan><tspan
+           id="tspan29889">きい</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24904">様</tspan><tspan
+           id="tspan29891">様</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24906">を</tspan><tspan
+           id="tspan29893">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24908">表</tspan></tspan><tspan
+           id="tspan29895">表</tspan></tspan><tspan
          x="220.46875"
          y="323.10575"
-         id="tspan24914"><tspan
+         id="tspan29901"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24912">す。</tspan></tspan></text>
+           id="tspan29899">す。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6608,7 +5288,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9611);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan24916">小さい</tspan></text>
+         id="tspan29903">小さい</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,-3.7991121)"
@@ -6616,49 +5296,49 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9613);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan24932"><tspan
+         id="tspan29919"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24918">字源：基準</tspan><tspan
+           id="tspan29905">字源：基準</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24920">としての</tspan><tspan
+           id="tspan29907">としての</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24922">二本</tspan><tspan
+           id="tspan29909">二本</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24924">の</tspan><tspan
+           id="tspan29911">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24926">横棒</tspan><tspan
+           id="tspan29913">横棒</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24928">に</tspan><tspan
+           id="tspan29915">に</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24930">対</tspan></tspan><tspan
+           id="tspan29917">対</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan24950"><tspan
+         id="tspan29937"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24934">してその</tspan><tspan
+           id="tspan29921">してその</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24936">下</tspan><tspan
+           id="tspan29923">下</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24938">を</tspan><tspan
+           id="tspan29925">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24940">表</tspan><tspan
+           id="tspan29927">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24942">すことで、</tspan><tspan
+           id="tspan29929">すことで、</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24944">小</tspan><tspan
+           id="tspan29931">小</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24946">さい</tspan><tspan
+           id="tspan29933">さい</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24948">様</tspan></tspan><tspan
+           id="tspan29935">様</tspan></tspan><tspan
          x="220.46875"
          y="323.10575"
-         id="tspan24958"><tspan
+         id="tspan29945"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24952">を</tspan><tspan
+           id="tspan29939">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24954">表</tspan><tspan
+           id="tspan29941">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24956">す。</tspan></tspan></text>
+           id="tspan29943">す。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6699,7 +5379,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9615);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan24960">多い</tspan></text>
+         id="tspan29947">多い</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,-3.7991141)"
@@ -6707,34 +5387,34 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9617);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan24982"><tspan
+         id="tspan29969"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24962">字源：【人】</tspan><tspan
+           id="tspan29949">字源：【人】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24964">と【</tspan><tspan
+           id="tspan29951">と【</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24966">人</tspan><tspan
+           id="tspan29953">人</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24968">】で</tspan><tspan
+           id="tspan29955">】で</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24970">人</tspan><tspan
+           id="tspan29957">人</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24972">の</tspan><tspan
+           id="tspan29959">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24974">多</tspan><tspan
+           id="tspan29961">多</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24976">い</tspan><tspan
+           id="tspan29963">い</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24978">様</tspan><tspan
+           id="tspan29965">様</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24980">を</tspan></tspan><tspan
+           id="tspan29967">を</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan24988"><tspan
+         id="tspan29975"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24984">表</tspan><tspan
+           id="tspan29971">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24986">す。</tspan></tspan></text>
+           id="tspan29973">す。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6775,7 +5455,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9619);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan24990">少ない</tspan></text>
+         id="tspan29977">少ない</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,33.200881)"
@@ -6783,27 +5463,27 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9621);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25012"><tspan
+         id="tspan29999"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24992">字源：短</tspan><tspan
+           id="tspan29979">字源：短</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24994">い</tspan><tspan
+           id="tspan29981">い</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24996">線</tspan><tspan
+           id="tspan29983">線</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan24998">で</tspan><tspan
+           id="tspan29985">で</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25000">少</tspan><tspan
+           id="tspan29987">少</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25002">ない</tspan><tspan
+           id="tspan29989">ない</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25004">事</tspan><tspan
+           id="tspan29991">事</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25006">を</tspan><tspan
+           id="tspan29993">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25008">示</tspan><tspan
+           id="tspan29995">示</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25010">す。</tspan></tspan></text>
+           id="tspan29997">す。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6844,7 +5524,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9623);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan25014">色</tspan></text>
+         id="tspan30001">色</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,33.200878)"
@@ -6852,34 +5532,34 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9625);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25030"><tspan
+         id="tspan30017"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25016">字源：多</tspan><tspan
+           id="tspan30003">字源：多</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25018">くの</tspan><tspan
+           id="tspan30005">くの</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25020">刻</tspan><tspan
+           id="tspan30007">刻</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25022">みの</tspan><tspan
+           id="tspan30009">みの</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25024">象形。飾</tspan><tspan
+           id="tspan30011">象形。飾</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25026">りから</tspan><tspan
+           id="tspan30013">りから</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25028">色</tspan></tspan><tspan
+           id="tspan30015">色</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan25042"><tspan
+         id="tspan30029"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25032">の</tspan><tspan
+           id="tspan30019">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25034">意</tspan><tspan
+           id="tspan30021">意</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25036">に</tspan><tspan
+           id="tspan30023">に</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25038">転</tspan><tspan
+           id="tspan30025">転</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25040">じた。</tspan></tspan></text>
+           id="tspan30027">じた。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6920,7 +5600,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9627);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25044">赤（い）</tspan></text>
+         id="tspan30031">赤（い）</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,70.200895)"
@@ -6928,13 +5608,13 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9629);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25052"><tspan
+         id="tspan30039"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25046">字源：【色】＋【火】</tspan><tspan
+           id="tspan30033">字源：【色】＋【火】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25048">の</tspan><tspan
+           id="tspan30035">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25050">会意。</tspan></tspan></text>
+           id="tspan30037">会意。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -6975,7 +5655,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9631);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25054">青（い）</tspan></text>
+         id="tspan30041">青（い）</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,70.200896)"
@@ -6983,13 +5663,13 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9633);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25062"><tspan
+         id="tspan30049"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25056">字源：【色】＋【水】</tspan><tspan
+           id="tspan30043">字源：【色】＋【水】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25058">の</tspan><tspan
+           id="tspan30045">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25060">会意。</tspan></tspan></text>
+           id="tspan30047">会意。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7030,7 +5710,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9635);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25064">白（い）</tspan></text>
+         id="tspan30051">白（い）</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,107.20096)"
@@ -7038,13 +5718,13 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9637);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25072"><tspan
+         id="tspan30059"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25066">字源：【色】＋【光】</tspan><tspan
+           id="tspan30053">字源：【色】＋【光】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25068">の</tspan><tspan
+           id="tspan30055">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25070">会意。</tspan></tspan></text>
+           id="tspan30057">会意。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7085,7 +5765,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9639);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25074">黒（い）</tspan></text>
+         id="tspan30061">黒（い）</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,107.20095)"
@@ -7093,13 +5773,13 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9641);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25082"><tspan
+         id="tspan30069"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25076">字源：【色】＋【闇】</tspan><tspan
+           id="tspan30063">字源：【色】＋【闇】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25078">の</tspan><tspan
+           id="tspan30065">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25080">会意。</tspan></tspan></text>
+           id="tspan30067">会意。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7140,7 +5820,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9643);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25084">土地、地面</tspan></text>
+         id="tspan30071">土地、地面</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,144.20096)"
@@ -7148,34 +5828,34 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9645);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25102"><tspan
+         id="tspan30089"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25086">字源：【神】</tspan><tspan
+           id="tspan30073">字源：【神】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25088">と【</tspan><tspan
+           id="tspan30075">と【</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25090">処</tspan><tspan
+           id="tspan30077">処</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25092">】の</tspan><tspan
+           id="tspan30079">】の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25094">組</tspan><tspan
+           id="tspan30081">組</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25096">み</tspan><tspan
+           id="tspan30083">み</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25098">合</tspan><tspan
+           id="tspan30085">合</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25100">わせ</tspan></tspan><tspan
+           id="tspan30087">わせ</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan25112"><tspan
+         id="tspan30099"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25104">の</tspan><tspan
+           id="tspan30091">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25106">訛字。【処】</tspan><tspan
+           id="tspan30093">訛字。【処】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25108">の</tspan><tspan
+           id="tspan30095">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25110">兄弟。</tspan></tspan></text>
+           id="tspan30097">兄弟。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7216,13 +5896,13 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9647);display:inline"><tspan
          x="220.46875"
          y="296.16211"
-         id="tspan25114">欠片、駒、</tspan><tspan
+         id="tspan30101">欠片、駒、</tspan><tspan
          x="220.46875"
          y="312.05612"
-         id="tspan25116">55.4mm、</tspan><tspan
+         id="tspan30103">55.4mm、</tspan><tspan
          x="220.46875"
          y="327.95013"
-         id="tspan25118">パーセント</tspan></text>
+         id="tspan30105">パーセント</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,144.20096)"
@@ -7230,38 +5910,38 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9649);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25140"><tspan
+         id="tspan30127"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25120">字源：【石】</tspan><tspan
+           id="tspan30107">字源：【石】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25122">に</tspan><tspan
+           id="tspan30109">に</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25124">点</tspan><tspan
+           id="tspan30111">点</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25126">を</tspan><tspan
+           id="tspan30113">を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25128">付</tspan><tspan
+           id="tspan30115">付</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25130">して</tspan><tspan
+           id="tspan30117">して</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25132">石</tspan><tspan
+           id="tspan30119">石</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25134">の</tspan><tspan
+           id="tspan30121">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25136">欠片</tspan><tspan
+           id="tspan30123">欠片</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25138">を</tspan></tspan><tspan
+           id="tspan30125">を</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan25150"><tspan
+         id="tspan30137"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25142">表</tspan><tspan
+           id="tspan30129">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25144">したものが</tspan><tspan
+           id="tspan30131">したものが</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25146">訛</tspan><tspan
+           id="tspan30133">訛</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25148">った。</tspan></tspan></text>
+           id="tspan30135">った。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7302,10 +5982,10 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9651);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan25152">中身が少な</tspan><tspan
+         id="tspan30139">中身が少な</tspan><tspan
          x="220.46875"
          y="315.13452"
-         id="tspan25154">い</tspan></text>
+         id="tspan30141">い</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1109.5189,181.20097)"
@@ -7313,23 +5993,23 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9653);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25172"><tspan
+         id="tspan30159"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25156">字源：【少】</tspan><tspan
+           id="tspan30143">字源：【少】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25158">と【</tspan><tspan
+           id="tspan30145">と【</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25160">銭</tspan><tspan
+           id="tspan30147">銭</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25162">】の</tspan><tspan
+           id="tspan30149">】の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25164">組</tspan><tspan
+           id="tspan30151">組</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25166">み</tspan><tspan
+           id="tspan30153">み</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25168">合</tspan><tspan
+           id="tspan30155">合</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25170">わせ。</tspan></tspan></text>
+           id="tspan30157">わせ。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
@@ -7370,7 +6050,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9655);display:inline"><tspan
          x="220.46875"
          y="297.47458"
-         id="tspan25174">理由</tspan></text>
+         id="tspan30161">理由</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1194.5189,181.20097)"
@@ -7378,38 +6058,38 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Light';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect9657);display:inline"><tspan
          x="220.46875"
          y="294.84964"
-         id="tspan25192"><tspan
+         id="tspan30179"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25176">字源：【言】</tspan><tspan
+           id="tspan30163">字源：【言】</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25178">と【</tspan><tspan
+           id="tspan30165">と【</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25180">上</tspan><tspan
+           id="tspan30167">上</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25182">】を</tspan><tspan
+           id="tspan30169">】を</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25184">組</tspan><tspan
+           id="tspan30171">組</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25186">み</tspan><tspan
+           id="tspan30173">み</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25188">合</tspan><tspan
+           id="tspan30175">合</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25190">わせ、</tspan></tspan><tspan
+           id="tspan30177">わせ、</tspan></tspan><tspan
          x="220.46875"
          y="308.97769"
-         id="tspan25206"><tspan
+         id="tspan30193"><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25194">発言</tspan><tspan
+           id="tspan30181">発言</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25196">の</tspan><tspan
+           id="tspan30183">の</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25198">前</tspan><tspan
+           id="tspan30185">前</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25200">にあるものを</tspan><tspan
+           id="tspan30187">にあるものを</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25202">表</tspan><tspan
+           id="tspan30189">表</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'源ノ明朝 Bold'"
-           id="tspan25204">す。</tspan></tspan></text>
+           id="tspan30191">す。</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'源ノ明朝';-inkscape-font-specification:'源ノ明朝 Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.058358"
