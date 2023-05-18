@@ -10,14 +10,22 @@
 		function check() {
 			const text = document.getElementById("input").value;
 			const not_84 = [...text].filter(c => c.match(/[^人我汝此其彼心善悪何無在言於学為之処乎極噫筆国力須口行来上下左右時手足銭即而与受日月星火水風母父全等加別同一二三四五六七八九十百始終生入冠皇神大小多少色赤青白黒地片貧故]/) && c.match(/[\u3400-\u4DBF\u4e00-\u9fff]/));
-			document.getElementById("output").textContent = not_84.length ? `【${not_84.join("")}】は 84 燐字に該当しません`: "";
+			if (not_84.length) {
+				document.getElementById("output").textContent = `【${not_84.join("")}】は 84 燐字に該当しません`;
+				document.getElementsByTagName("body")[0].style.backgroundColor = "#faf47d";
+
+			} else {
+				document.getElementById("output").textContent = "";
+				document.getElementsByTagName("body")[0].style.backgroundColor = "#ffffff";
+			}
 		}
 	</script>
 </head>
 
 <body>
 	<h1>84字チェッカー</h1>
-	<p>【人我汝此其彼心善悪何無在言於学為之処乎極噫筆国力須口行来上下左右時手足銭即而与受日月星火水風母父全等加別同一二三四五六七八九十百始終生入冠皇神大小多少色赤青白黒地片貧故】にマッチしない CJK 統合漢字および CJK 統合漢字拡張 A を探して警告するツール	</p>
+	<p>【人我汝此其彼心善悪何無在言於学為之処乎極噫筆国力須口行来上下左右時手足銭即而与受日月星火水風母父全等加別同一二三四五六七八九十百始終生入冠皇神大小多少色赤青白黒地片貧故】にマッチしない CJK 統合漢字および CJK
+		統合漢字拡張 A を探して警告するツール </p>
 	<textarea id="input" cols="60" rows="10" oninput="check()"></textarea><br>
 	<div id="output"></div>
 </body>
